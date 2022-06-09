@@ -1,0 +1,7 @@
+C:\Users\magcl\OneDrive\Escritorio\tec univercidad\P.O,O\unidad 6\Invetario_Amazon\bin\Debug\Invetario_Amazon.exe.config
+C:\Users\magcl\OneDrive\Escritorio\tec univercidad\P.O,O\unidad 6\Invetario_Amazon\bin\Debug\Invetario_Amazon.exe
+C:\Users\magcl\OneDrive\Escritorio\tec univercidad\P.O,O\unidad 6\Invetario_Amazon\bin\Debug\Invetario_Amazon.pdb
+C:\Users\magcl\OneDrive\Escritorio\tec univercidad\P.O,O\unidad 6\Invetario_Amazon\obj\Debug\Invetario_Amazon.csproj.AssemblyReference.cache
+C:\Users\magcl\OneDrive\Escritorio\tec univercidad\P.O,O\unidad 6\Invetario_Amazon\obj\Debug\Invetario_Amazon.csproj.CoreCompileInputs.cache
+C:\Users\magcl\OneDrive\Escritorio\tec univercidad\P.O,O\unidad 6\Invetario_Amazon\obj\Debug\Invetario_Amazon.exe
+C:\Users\magcl\OneDrive\Escritorio\tec univercidad\P.O,O\unidad 6\Invetario_Amazon\obj\Debug\Invetario_Amazon.pdb
